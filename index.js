@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const app = express();
 const db = require('./db');
 const port = 3000;
-
+  Authorization: Bearer <vbgukbjgj1QvwmMnyvnv901e>
 app.use(bodyParser.json());
 
 app.use(
